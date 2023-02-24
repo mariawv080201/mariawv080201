@@ -1,4 +1,6 @@
-### Hi there 👋
+
+# Hola, soy María
+## Estudiante de Ingeniería Informática en Universidad de Cádiz UCA
 
 <!--
 **mariawv080201/mariawv080201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
